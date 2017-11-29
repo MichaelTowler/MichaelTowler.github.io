@@ -1,6 +1,6 @@
 .back{
   background-color:black;
-
+  text-align: center;
 }
 a{
   color:aquamarine;
@@ -22,7 +22,7 @@ p{
   font-family:verdana;
   font-size:21px;
   color:gray;
-  text-align:center;
+
 }
 .f{
   text-align:right;
