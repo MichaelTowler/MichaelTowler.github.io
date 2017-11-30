@@ -1,8 +1,14 @@
 .back{
   background-image:url("https://github.com/MichaelTowler/MichaelTowler.github.io/blob/master/Broadway/resources/the-flatiron-building.png?raw=true");
-  background-repeat:no-repeat;
   background-position:top;
   text-align:center;
+  background-position: 0px 54px;
+  background-repeat: no-repeat;
+}
+.back2{
+  background-image:url("https://github.com/MichaelTowler/MichaelTowler.github.io/blob/master/Broadway/resources/the-flatiron-building.png?raw=true");
+  background-position:top;
+  background-repeat: no-repeat;
 }
 h1{
   font-family:helvetica;
@@ -14,4 +20,20 @@ a{
   font-family:helvetica;
   font-size:18px;
   color:white;
+  font-weight:bold;
+  position:bottom;
+}
+h2{
+  font-family:helvetica;
+  font-size:32px;
+  font-weight:bold;
+}
+h3{
+  font-family:helvetica;
+  font-size:23px
+  font-weight:bold;
+}
+p{
+  font-family:helvetica;
+  font-size:14px;
 }
