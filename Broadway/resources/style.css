@@ -8,8 +8,8 @@
 .back2{
   background-image:url("https://github.com/MichaelTowler/MichaelTowler.github.io/blob/master/Broadway/resources/the-flatiron-building.png?raw=true");
   background-position:top;
-  background-repeat: no-repeat;
 }
+
 h1{
   font-family:helvetica;
   font-size:70px;
@@ -32,6 +32,12 @@ h3{
   font-family:helvetica;
   font-size:23px
   font-weight:bold;
+}
+h4{
+  font-family:helvetica;
+  font-size:23px;
+  font-weight:bold;
+  color:white;
 }
 p{
   font-family:helvetica;
