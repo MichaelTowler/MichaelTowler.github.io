@@ -39,7 +39,7 @@ ul li{
 }
 
 #backgroundpic{
-  background-image:url("/Users/michaeltowler/Desktop/MichaelTowler.github.io/teacozy/resources/img-mission-background.jpg");
+  background-image:url("/teacozy/resources/img-mission-background.jpg");
   background-repeat:no-repeat;
   height:700px;
   width:1200px;
@@ -47,7 +47,7 @@ ul li{
 }
 
 #backgroundpic2{
-  background-image:url("/Users/michaeltowler/Desktop/MichaelTowler.github.io/teacozy/resources/img-locations-background.jpg");
+  background-image:url("/teacozy/resources/img-locations-background.jpg");
   height:600px;
   width:1200px;
 }
